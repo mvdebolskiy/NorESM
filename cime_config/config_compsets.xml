@@ -62,6 +62,17 @@
 
   <!-- BG compsets: evolving ice sheet -->
 
+  <compset>
+    <alias>NG1850</alias>
+    <lname>1850_CAM70%LT%NORESM%CAMoslo_CLM60%SP_CICE_BLOM%HYB%ECO_MOSART_CISM2%GRIS-EVOLVE_SWAV_SESP</lname>
+  </compset>
+
+  <compset>
+    <alias>NAG1850</alias>
+    <lname>1850_CAM70%LT%NORESM%CAMoslo_CLM60%SP_CICE_BLOM%HYB%ECO_MOSART_CISM2%AIS-EVOLVE%GRIS-EVOLVE_SWAV_SESP</lname>
+  </compset>
+
+
   <!-- Prognostic wave -->
 
   <!-- Data wave -->
